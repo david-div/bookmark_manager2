@@ -1,0 +1,61 @@
+{
+  "RSpec": {
+    "coverage": {
+      "/Users/alessiobortone/Documents/GitHub/week_4_challenge/bookmark_manager/spec/features/feature_spec.rb": [
+        1,
+        null,
+        null,
+        1,
+        1,
+        1,
+        1,
+        1,
+        null,
+        1,
+        1,
+        1,
+        1,
+        null,
+        1,
+        1,
+        null,
+        0,
+        0,
+        0,
+        0,
+        null,
+        null,
+        null,
+        null
+      ],
+      "/Users/alessiobortone/Documents/GitHub/week_4_challenge/bookmark_manager/spec/link_spec.rb": [
+        1,
+        1,
+        null,
+        1,
+        1,
+        1,
+        null,
+        null
+      ],
+      "/Users/alessiobortone/Documents/GitHub/week_4_challenge/bookmark_manager/models/link.rb": [
+        1,
+        1,
+        null,
+        1,
+        1,
+        null,
+        1,
+        1,
+        1,
+        null,
+        null,
+        null,
+        1,
+        1,
+        1
+      ]
+    },
+    "timestamp": 1503415090
+  }
+}
