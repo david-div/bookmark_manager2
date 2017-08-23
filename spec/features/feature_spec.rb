@@ -1,7 +1,7 @@
 require 'spec_helper'
 #require_relative './../../app.rb'
 
-feature DatabasePlay do
+feature BookmarkManager do
   context '/links' do
     let(:link1) { 'Google' }
     let(:link2) { 'Facebook' }
@@ -15,11 +15,11 @@ feature DatabasePlay do
       visit '/links'
       expect(page.status_code).to eq 200
 
-      within 'ul#links' do
+      # within 'ul#links' do
         expect(page).to have_text(link1)
         expect(page).to have_text(link2)
         expect(page).to have_text(link3)
-      end
+      # end
     end
   end
 end
