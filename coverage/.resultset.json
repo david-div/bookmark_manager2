@@ -1,7 +1,7 @@
 {
   "RSpec": {
     "coverage": {
-      "/Users/main/makers/week4/day3/bookmark_manager/spec/features/creating_links_spec.rb": [
+      "/Users/alessiobortone/Documents/GitHub/week_4_challenge/bookmark_manager/spec/features/creating_links_spec.rb": [
         1,
         1,
         null,
@@ -12,41 +12,42 @@
         1,
         1,
         1,
-        0,
-        0,
-        0,
-        null,
-        null,
-        null
-      ],
-      "/Users/main/makers/week4/day3/bookmark_manager/spec/features/feature_spec.rb": [
-        1,
-        1,
-        null,
-        1,
-        1,
-        2,
-        2,
-        2,
-        null,
         1,
         1,
         1,
-        1,
-        null,
-        1,
-        1,
-        null,
-        null,
-        1,
-        1,
-        1,
-        null,
         null,
         null,
         null
       ],
-      "/Users/main/makers/week4/day3/bookmark_manager/spec/link_spec.rb": [
+      "/Users/alessiobortone/Documents/GitHub/week_4_challenge/bookmark_manager/spec/features/feature_spec.rb": [
+        1,
+        1,
+        null,
+        null,
+        1,
+        1,
+        2,
+        null,
+        1,
+        1,
+        null,
+        1,
+        1,
+        null,
+        1,
+        1,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "/Users/alessiobortone/Documents/GitHub/week_4_challenge/bookmark_manager/spec/link_spec.rb": [
         1,
         1,
         null,
@@ -57,6 +58,6 @@
         null
       ]
     },
-    "timestamp": 1503495659
+    "timestamp": 1503501577
   }
 }
