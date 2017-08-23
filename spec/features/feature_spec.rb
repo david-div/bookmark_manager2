@@ -1,5 +1,5 @@
 require 'spec_helper'
-#require_relative './../../app.rb'
+require_relative './../../app/app.rb'
 
 feature BookmarkManager do
   context '/links' do

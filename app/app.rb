@@ -4,12 +4,21 @@ require './models/link.rb'
 class BookmarkManager < Sinatra::Base
 
   get '/' do
-    'www.google.com'
+    'Playing with bookmarks'
   end
 
   get '/links' do
     @links = Link.all
     erb :links
+  end
+
+  get '/links/new' do
+    erb :'links/new'
+  end
+
+  post '/links' do
+    Link.create(title: params[:title], url: params[:url])
+    redirect '/links'
   end
 
   run! if app_file == $PROGRAM_NAME

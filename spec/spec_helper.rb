@@ -1,7 +1,8 @@
 ENV['RACK_ENV'] = 'test'
 
-require File.join(File.dirname(__FILE__), '..', 'app.rb')
+# require File.join(File.dirname(__FILE__), '../app', 'app.rb')
 
+require_relative '../app/app'
 require 'data_mapper'
 require 'sinatra'
 require 'capybara'
