@@ -1,4 +1,4 @@
-require_relative './../models/link'
+require_relative '../app/models/link'
 require 'spec_helper'
 
 describe Link do
